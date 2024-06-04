@@ -48,7 +48,7 @@ The data for this project was sourced from Motivate International Inc., under a 
 - Bike types
 - Other relevant user interaction data
 To download this dataset, please click here : https://divvy-tripdata.s3.amazonaws.com/index.html
-The combined bike_data.csv used in this project is an aggregated file that includes bike data from May 2023 to April 2024. Due to the large size of the dataset, please download the individual file from the link above.
+The `combined_bike_data.csv` file used in this project aggregates bike-sharing data spanning from May 2023 to April 2024. Due to the extensive size of this dataset, it is not included directly in this repository. Please download the individual monthly files from the provided link above and combine them locally on your computer to recreate the dataset used for this analysis.
 ## Results/Conclusions
 The analysis indicates several notable differences in how different user types interact with the bike-sharing service. Insights drawn from the data can help Cyclistic tailor its marketing strategies to convert more casual riders into annual members. Detailed findings and visualizations are provided in the `Bike_Analysis.ipynb` notebook.
 
