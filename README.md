@@ -39,6 +39,8 @@ The code is compatible with Python version 3.*.
 This repository contains:
 - `Bike_Analysis.ipynb`: Jupyter notebook containing all the code and detailed analysis.
 - `README.md`: Provides an overview of the project and setup instructions.
+- `Bike_Share_Conversion_Analysis_Report.pdf`: A comprehensive PDF report detailing the findings, methodology, and implications of the analysis.
+- `Bike_Share_User_Insights_Infographic.png`: Visual infographics summarizing key data points and insights for quick reference and sharing.
 
 ## Data Collection and Sources
 The data for this project was sourced from Motivate International Inc., under a public domain license as part of the Google Data Analytics Capstone Project. The dataset includes:
